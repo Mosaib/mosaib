@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mosaib
-- 👀 I’m interested in AI and ML
+- 👀 I’m interested in Web App Developing and AI
 - 🌱 I’m currently learning ...
 - 📫 mosaibkhan73@gmail.com
 
